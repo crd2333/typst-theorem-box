@@ -1,7 +1,8 @@
 [package]
 name = "thms"
-version = "0.1.0"
+version = "0.2.0"
 entrypoint = "lib.typ"
-authors = ["crd233"]
+authors = ["crd2333"]
 license = "MIT"
+repository = "https://github.com/crd2333/typst-theorem-box"
 description = "A theorem box designed using showybox."
